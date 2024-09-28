@@ -1,0 +1,11 @@
+/Users/shan15dev/work/rust-bits/guessing-game/target/debug/deps/libquote-0d9475a8a7299d67.rmeta: /Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/lib.rs /Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ext.rs /Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/format.rs /Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ident_fragment.rs /Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/to_tokens.rs /Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/runtime.rs /Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/spanned.rs
+
+/Users/shan15dev/work/rust-bits/guessing-game/target/debug/deps/quote-0d9475a8a7299d67.d: /Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/lib.rs /Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ext.rs /Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/format.rs /Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ident_fragment.rs /Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/to_tokens.rs /Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/runtime.rs /Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/spanned.rs
+
+/Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/lib.rs:
+/Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ext.rs:
+/Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/format.rs:
+/Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ident_fragment.rs:
+/Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/to_tokens.rs:
+/Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/runtime.rs:
+/Users/shan15dev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/spanned.rs:
