@@ -36,6 +36,7 @@ fn main() {
                 break;
             }
         }
+        println!("The correct number was: {secret_number}")
     }
 
 }
