@@ -18,7 +18,13 @@ fn main() {
             .read_line(&mut guess)
             .expect("MATEEEE thats not a number");
     
-        let guess :u32 = guess.trim().parse().expect("Parsing to integer failed");
+        //let guess :u32 = guess.trim().parse().expect("Parsing to integer failed");
+        // switchting to a match makes error handling better
+        let guess :u32 = match guess.trim().parse(){
+            Ok(num) => num,
+            // Application goes to the next iteration, when an error occurs
+            Err(_) => continue
+         };
     
         println!("Your number was: {guess}");
     
